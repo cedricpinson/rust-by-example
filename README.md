@@ -1,2 +1,2 @@
 # rust-by-example
-Repo of tests
+rust tests
